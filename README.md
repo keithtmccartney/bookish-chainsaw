@@ -21,6 +21,6 @@ Grab the article at [https://www.c-sharpcorner.com/article/how-to-create-publish
 
 ## Thanks
 
-Thanks goes out to Techiediaries for the FREE stuff!
+Thanks goes out to Sumit Kharche for the FREE stuff!
 
 * [Sumit Kharche's C# Corner profile](https://www.c-sharpcorner.com/members/sumit-kharche) ...I am a Full Stack Software Developer by passion and profession working on Microsoft ASP.NET Core and Azure...
