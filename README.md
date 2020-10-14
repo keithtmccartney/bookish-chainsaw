@@ -5,7 +5,7 @@ Grab the article at [https://www.c-sharpcorner.com/article/how-to-create-publish
 
 ## Tips/Run
 
-* Abc;
+* There is a blog-post, [here](https://www.jasongaylord.com/blog/2020/05/28/creating-azure-function-from-command-line), for creating an Azure Function from the .NET CLI, I haven't actioned this project utilising any commands but is something I'll do when I learn more about this technology;
 
 ## Errors Experienced
 
@@ -13,7 +13,9 @@ Grab the article at [https://www.c-sharpcorner.com/article/how-to-create-publish
 
 ## Notes:
 
-* Abc;
+* The Azure Function runs from the following CLI: C:\users\keith\appdata\local\azurefunctionstools\releases\3.14.0\cli_x64\func.exe;
+* The default port for running an Azure Function is 7071;
+* Calling "http://localhost:7071/api/Function1?name=Keith" resulted in "Hello, Keith. This HTTP triggered function executed successfully.";
 
 ## What's it all about?
 
